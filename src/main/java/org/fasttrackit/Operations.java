@@ -7,7 +7,7 @@ public class Operations {
         return a + b;
     }
     static int gat(int a, int b) {
-        return a + b;
+        return a + b;   //Overloading
     }
     static double dec(double a, double b) {
         return a - b;
