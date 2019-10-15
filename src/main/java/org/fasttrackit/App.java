@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args ) {
 
+
         Operations value = new Operations();
 
         System.out.println("The gathering is equal with  " + value.gat(9,7));
